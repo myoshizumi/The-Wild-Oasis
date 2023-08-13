@@ -1,7 +1,6 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
 /* eslint-disable react-refresh/only-export-components */
-import { useEffect, useRef } from "react";
 import { cloneElement } from "react";
 import { createContext, useContext, useState } from "react";
 import { createPortal } from "react-dom";
